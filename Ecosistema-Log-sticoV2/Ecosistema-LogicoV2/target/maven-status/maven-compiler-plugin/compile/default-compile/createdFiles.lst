@@ -1,0 +1,6 @@
+modelo\CamionAutonomo.class
+modelo\Vehiculo.class
+logistica\Main.class
+gestion\CentroControl.class
+interfaces\IConectable.class
+modelo\DronTransporte.class
